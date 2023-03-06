@@ -1,0 +1,47 @@
+Questão 1)
+Resposta: ao final do processamento o valor da variável SOMA será 91.
+
+Questão 2)
+Problema resolvido no código.
+
+Questão 3)
+a) 1, 3, 5, 7, 9...
+Essa é a sequência dos números ímpares.
+
+b) 2, 4, 6, 8, 16, 32, 64, 128...
+Essa sequência representa o dobro do número anterior.
+
+c) 0, 1, 4, 9, 16, 25, 36, 49...
+Essa é a sequência dos quadrados perfeitos, ou seja, um número multiplicado por ele mesmo.
+
+d) 4, 16, 36, 64, 100...
+Essa sequência é o quadrado dos números pares.
+
+e) 1, 1, 2, 3, 5, 8, 13...
+Essa é a sequência de fibonacci.
+
+f) 2, 10, 12, 16, 17, 18, 19, 200...
+Essa sequência é formada por números que iniciam com a letra D.
+
+Questão 4)
+Como o carro e o caminhão estão se movendo em direções opostas, a distância entre eles está diminuindo, então temos que somar as velocidades para descobrir a taxa em que a distância diminui:
+110 km/h + 80 km/h = 190 km/h.
+
+Para encontrar o tempo em que os caminhos vão se cruzar basta dividir a distância inicial entre as cidades pela velocidade dos veículos:
+tempo = distância / velocidade
+tempo = 100 km / 190 km/h
+tempo = 0,5263 horas
+
+Agora é possível calcular a distância percorrida por cada um deles até o ponto de encontro:
+Como o caminhão teve que ficar parado 10 minutos nos pedágios, é necessário subtrair 0,1667 horas no tempo dele.
+
+tempo do caminhão = 0,5263 horas - 0,1667 horas = 0,3596 horas
+distância percorrida pelo caminhão = 80 km/h x 0,3596 horas = 28,768 km
+distância percorrida pelo carro = 110 km/h x 0,5263 horas = 57,895 km
+
+Calculando a distância restante para cada um dos veículos:
+
+distância restante para o caminhão = 100 km - 28,768 km = 71,232 km
+distância restante para o carro = 100 km - 57,895 km = 42,105 km
+
+Dessa forma, quando os dois veículos se cruzarem, o carro estará mais próximo de Reibeirão Preto do que o caminhão.
